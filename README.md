@@ -52,9 +52,9 @@ Entre os principais usuários estão:
 
 ## Requisitos Não Funcionais
 
-- **RNF-01 — Feedback Visual**: Sempre que o aplicativo estiver buscando dados da internet, ele deve mostrar uma animação de carregamento (ex: *CircularProgressIndicator* / círculo girando) para que o usuário saiba que a aplicação está processando e não travou.
+- **RNF-01 — Feedback Visual**: Sempre que o aplicativo estiver buscando dados da internet, ele deve mostrar uma animação de carregamento (ex: *um círculo girando*) para que o usuário saiba que a aplicação está processando e não travou.
 - **RNF-02 — Tratamento de Erros**: Exibir mensagens de erro claras e amigáveis. Caso ocorra uma falha (como tentar comprar um produto sem estoque), a aplicação não deve fechar inesperadamente nem exibir códigos internos. Deve-se exibir um aviso simples explicando o problema.
-- **RNF-03 — Segurança**: Armazenar credenciais e tokens de acesso de forma criptografada e segura no dispositivo (*Secure Storage*), garantindo que o usuário mantenha a sessão ativa sem a necessidade de reautenticação a cada abertura.
+- **RNF-03 — Segurança**: Guardar logins e dados com segurança , o aplicativo deve salvar o acesso do usuário de forma protegida no celular. Com isso, a pessoa não precisa digitar e-mail e senha toda vez que abrir o app, mantendo os dados seguros.
 - **RNF-04 — Usabilidade**: A interface deve apresentar visual organizado, navegação intuitiva, elementos interativos (botões) com área de toque adequada, tipografia legível e contraste de cores conforme diretrizes de acessibilidade.
 - **RNF-05 — Desempenho**: A navegação e a renderização de listas (como catálogo de produtos e histórico de pedidos) devem ser otimizadas, garantindo rolagens *smooth* e sem quedas de taxa de quadros (*stuttering*).
 
