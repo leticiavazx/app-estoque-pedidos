@@ -35,8 +35,6 @@ Entre os principais usuários estão:
 
 ## Requisitos
 
----
-
 ## Requisitos Funcionais
 
 - **RF-01**: O aplicativo deve permitir o cadastro de novos clientes com validação de formato de campos obrigatórios como nome, e-mail, CPF/CNPJ e endereço antes da submissão.
