@@ -1,4 +1,13 @@
 # 📦 Sistema de Controle de Estoque e Pedidos
+
+Disciplina: Programação para Dispositivos Móveis
+
+Curso: Sistemas de Informação
+
+Instituição: Instituto Federal Goiano - Câmpus Urutaí
+
+---
+## 📝 Resumo
 Aplicativo mobile para gerenciamento de estoque e acompanhamento de pedidos, desenvolvido com o objetivo de facilitar a organização e o controle de produtos em pequenos negócios.
 
 O projeto faz parte da disciplina de Programação para Dispositivos Móveis, do curso de Bacharelado em Sistemas de Informação do IF Goiano – Campus Urutaí.
@@ -18,7 +27,7 @@ A proposta é oferecer uma solução simples e prática, facilitando o gerenciam
 
 ---
 
-## Público Alvo
+## 🏪 Público Alvo
 O público-alvo são pequenos empreendedores e empresas de pequeno porte que precisam organizar e controlar seus produtos de maneira simples e eficiente.
 
 Entre os principais usuários estão:
@@ -33,7 +42,7 @@ Entre os principais usuários estão:
 
 ---
 
-## Requisitos
+## ⚙️ Requisitos
 
 ## Requisitos Funcionais
 
@@ -58,7 +67,7 @@ Entre os principais usuários estão:
 
 ---
 
-## Diagramas
+## 📊 Diagramas
 - **Arquitetura de Camadas**
   
 <img width="1092" height="362" alt="Demonstra a organização do código Flutter, desacoplamento e gerenciamento de estado drawio" src="https://github.com/user-attachments/assets/dbec3405-3341-4908-9fc6-6f275b0740be" />
@@ -74,7 +83,7 @@ Entre os principais usuários estão:
 *Define a experiência de usuário (UX) e o mapeamento de rotas do app móvel.*
 
 ---
-- **Diagrama de sequência**
+- **Diagrama de Sequência**
   
 <img width="1282" height="863" alt="Valida a integração completa entre a interface móvel e a API REST Spring Boot" src="https://github.com/user-attachments/assets/d8283b77-c84b-4716-98cd-bcdcb2d5580c" />
 
